@@ -1,0 +1,35 @@
+#lightText
+{
+	color:black;
+	height:18px;
+	
+	
+	
+}
+.classText
+{
+
+	color:black;
+	height:22px;
+	width:224px;
+	border-color:black;
+	
+	border-width:10px;
+	font-variant:small-caps;
+	padding:15px;
+	//margin:10px;
+}
+.colorText
+{
+	color:black;
+}
+.color1Text
+{
+	color:blue;
+}
+.centerrow
+{
+	padding-left:220px;
+	
+
+}
